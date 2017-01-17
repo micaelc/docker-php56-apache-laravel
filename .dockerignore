@@ -1,1 +1,14 @@
+# Configuration Files
 .git
+.idea
+.gitignore
+.gitattributes
+
+
+# Folders
+/server
+
+
+# files
+*.md
+Dokerfile
